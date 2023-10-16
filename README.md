@@ -1,4 +1,5 @@
 # Digitruck
 Digitruk website
 
-Website design for digitruck
+We are not doing the website any more
+
